@@ -1,8 +1,6 @@
 # FSMulator
 A simulator for Deterministic Finite State Machines
 
-This is the ```Simple```  branch where the program barely works.
+This is the ```Args```  branch where I plan to use CLAP to parse command-line arguments.
 
-- Arguments are parsed, but errors are not handled well.
-- Best practices aren't employed.
-- It is not user friendly...**but** it works
+-Still working on it.
