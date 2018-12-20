@@ -5,3 +5,4 @@ authors = ["shreevari <shreevari.sp@protonmail.com>"]
 edition = "2018"
 
 [dependencies]
+csv = "1"
